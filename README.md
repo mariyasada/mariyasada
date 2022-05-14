@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Latest blog Post
-[Method of Promises](https://mariyasada.hashnode.dev/different-methods-of-promises)
-[Diffing and reconciliation](https://mariyasada.hashnode.dev/virtual-dom-diffing-and-reconciliation)
-[compilation Vs transpilation](https://mariyasada.hashnode.dev/compilation-vs-transpilation)
+- [Method of Promises](https://mariyasada.hashnode.dev/different-methods-of-promises)
+- [Diffing and reconciliation](https://mariyasada.hashnode.dev/virtual-dom-diffing-and-reconciliation)
+- [compilation Vs transpilation](https://mariyasada.hashnode.dev/compilation-vs-transpilation)
 
