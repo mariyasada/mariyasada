@@ -2,8 +2,9 @@
 
 <!--
 **mariyasada/mariyasada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
-Here are some ideas to get you started:
+
 - Want to hire me? Check out my[Resume](https://drive.google.com/file/d/1jtcsrCO78lsb7Vc22BozlX64ssQvvTRS/view?usp=sharing)
 
 ## Latest blog Post
