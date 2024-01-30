@@ -19,13 +19,19 @@ Hi there! I'm Mariya, a frontend developer dedicated to crafting engaging digita
 Leveraging the power of Redux Toolkit for state management and Firebase for real-time data synchronization, our social media project is a dynamic and responsive hub where users can connect, share, and engage. Effortlessly manage your application's state with Redux Toolkit's simplicity, while Firebase ensures secure, scalable, and efficient real-time data storage and retrieval. 
 
 ## Skills
-*Programming Languages: JavaScript, And Python_
-*Frontend Development: NextJs, ReactJs, Redux, ReactQuery, TypeScript, TailwindCSS, SCSS,Redux-Toolkit,Material-UI
-*Databases: Postgresql
-*Version Control: Git
-*Other Tools: Postman, Figma, GitHub, BitBucket
 
-[My Resume](https://drive.google.com/file/d/19p5xCIAKBUKgx_-JSn7gREYYAhFH5I-k/view?usp=drive_link)
+* Programming Languages: JavaScript
+* Frontend Development: NextJs, ReactJs, Redux, ReactQuery, TypeScript, TailwindCSS, SCSS, Redux-Toolkit, Material-UI, Firebase
+* Version Control: Git
+* Other Tools: Postman, Figma, GitHub, BitBucket
+
+  ## Let's connect
+  * [Linkedin](https://www.linkedin.com/in/sadamariya/)<br/>
+  * [Twitter](https://twitter.com/sada_mariya)<br/>
+
+  ## [portfolio](https://mariya.vercel.app/)
+
+[My Resume](https://drive.google.com/file/d/1Q7v_M7gx_INXWoU0iXaOIpRlaA5RZtwN/view?usp=drive_link)
 
 <!--
 **mariyasada/mariyasada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
