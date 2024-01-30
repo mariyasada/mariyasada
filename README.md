@@ -15,11 +15,11 @@ Hi there! I'm Mariya, a frontend developer dedicated to crafting engaging digita
 
 ## Projects
 
- [Instaconnect](https://insta-connect-by-mariayasada.netlify.app/)
+ ### [Instaconnect](https://insta-connect-by-mariayasada.netlify.app/)<br/>
 Leveraging the power of Redux Toolkit for state management and Firebase for real-time data synchronization, our social media project is a dynamic and responsive hub where users can connect, share, and engage. Effortlessly manage your application's state with Redux Toolkit's simplicity, while Firebase ensures secure, scalable, and efficient real-time data storage and retrieval. 
 
 ## Skills
-*Programming Languages: JavaScript, And Python
+*Programming Languages: JavaScript, And Python_
 *Frontend Development: NextJs, ReactJs, Redux, ReactQuery, TypeScript, TailwindCSS, SCSS,Redux-Toolkit,Material-UI
 *Databases: Postgresql
 *Version Control: Git
